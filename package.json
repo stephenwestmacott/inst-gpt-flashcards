@@ -1,0 +1,29 @@
+{
+  "name": "inst-gpt-flashcards",
+  "version": "1.0.0",
+  "description": "Creates flashcards using the gpt api.",
+  "keywords": [
+    "instrumentation",
+    "gpt",
+    "flashcards",
+    "ai"
+  ],
+  "homepage": "https://github.com/stephenwestmacott/inst-gpt-flashcards#readme",
+  "bugs": {
+    "url": "https://github.com/stephenwestmacott/inst-gpt-flashcards/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenwestmacott/inst-gpt-flashcards.git"
+  },
+  "license": "ISC",
+  "author": "Stephen Westmacott",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
